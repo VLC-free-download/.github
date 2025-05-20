@@ -11,15 +11,15 @@
 
 🎯 What You Unlock
 
-    ▶️ Support for nearly all video and audio formats
+▶️ Support for nearly all video and audio formats
 
-    ⚙️ Advanced playback options and media conversion tools
+⚙️ Advanced playback options and media conversion tools
 
-    🖥 Lightweight, stable, and cross-platform player
+🖥 Lightweight, stable, and cross-platform player
 
-    🔌 Offline installation without any online activation
+🔌 Offline installation without any online activation
 
-    🛠 Customizable interface and extensions support
+🛠 Customizable interface and extensions support
 
 🖼 Preview
 
